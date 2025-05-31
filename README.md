@@ -1,15 +1,17 @@
 
 
+
+- [Technologie](#technologie)
+- [Uruchomienie](#uruchomienie)
+- [Twórcy](#twórcy)
+
+
 GitHub Pages
 https://pages.github.com
 
 ![pages](https://github.com/user-attachments/assets/5ae4b460-07c2-4e08-b68b-7e9cd9c742e8)
 
- Spis treści
-
-- [Technologie](#technologie)
-- [Uruchomienie](#uruchomienie)
-- [Twórcy](#twórcy)
+ 
 
  Technologie
 - HTML5
@@ -20,5 +22,5 @@ https://pages.github.com
 
 
  Uruchamianie: 
- bash 
+ - bash 
 
